@@ -11,6 +11,7 @@ function onCreated( )
 	 contentUI(rootView)
 	 navigation.createindex()
 	 --local a,b=34,43
+	 --loca c ,d=48,59
 	 
 end
 
