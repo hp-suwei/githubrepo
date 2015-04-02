@@ -10,6 +10,7 @@ function onCreated( )
 	rootView.backgroundColor="white"
 	 contentUI(rootView)
 	 navigation.createindex()
+	 --local a,b=34,43
 	 
 end
 
